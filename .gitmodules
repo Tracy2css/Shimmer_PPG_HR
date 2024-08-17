@@ -1,3 +1,6 @@
 [submodule "Shimmer-C-API"]
 	path = Shimmer-C-API
 	url = https://github.com/ShimmerEngineering/Shimmer-C-API.git
+[submodule "liblsl-Csharp"]
+	path = liblsl-Csharp
+	url = https://github.com/ShimmerEngineering/liblsl-Csharp.git
