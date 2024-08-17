@@ -1,0 +1,3 @@
+[submodule "Shimmer-C-API"]
+	path = Shimmer-C-API
+	url = https://github.com/ShimmerEngineering/Shimmer-C-API.git
